@@ -1,18 +1,26 @@
 {
   "stats": {
-    "totalSolved": 1,
-    "diffScore": 0,
-    "currentStreak": 0,
-    "lastActiveDate": null
+    "totalSolved": 2,
+    "diffScore": 560,
+    "currentStreak": 1,
+    "lastActiveDate": "2026-09-30"
   },
   "solvedMap": {
     "largest-element-in-array": {
-      "solvedAt": 1790760878131,
-      "runtimeMs": 7
+      "solvedAt": 1790760878130,
+      "runtimeMs": 7,
+      "time": "O(n)",
+      "space": "O(1)"
+    },
+    "second-largest-element-in-array": {
+      "solvedAt": 1790774467076,
+      "runtimeMs": 5
     }
   },
   "starredIds": [],
-  "reviewQueue": [],
+  "reviewQueue": [
+    "largest-element-in-array"
+  ],
   "boxState": {},
   "achievements": [],
   "comboCount": 0,
